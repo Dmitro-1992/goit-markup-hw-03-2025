@@ -223,7 +223,7 @@ padding: 188px 0 188px;
     letter-spacing: 0.04em;
     padding: 16px 32px;
     border-radius: 4px;
-    max-width: 169px;
+    min-width: 169px;
     height: 56px;
     border: none;
     /* font-family: inherit; */
